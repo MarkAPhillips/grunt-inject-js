@@ -1,4 +1,4 @@
-# grunt-inject-js v.0.1.9
+# grunt-inject-js v.0.1.10
 
 [![npm version](https://badge.fury.io/js/grunt-inject-js.svg)](https://badge.fury.io/js/grunt-inject-js)
 
@@ -99,11 +99,14 @@ This property was added as in some environments no Javascript files need to be i
 
 ## Release History
 
+    * 2016-07-14   v0.1.10  
+<p>Update Readme text.</p>
+
     * 2016-07-14   v0.1.9  
 <p>Update Grunt peer dependencies and Grunt versions</p>
 
     * 2015-01-16   v0.1.8   Beta Version
-<p>Update  Readme text.</p>
+<p>Update Readme text.</p>
 
     * 2015-01-16   v0.1.7   Beta Version
 <p>Add clear option to task and update tests and Readme text.</p>
