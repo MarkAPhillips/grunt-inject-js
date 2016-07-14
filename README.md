@@ -1,4 +1,4 @@
-# grunt-inject-js v.0.1.8 Beta
+# grunt-inject-js v.0.1.9
 
 > Grunt task that allows for multiple js files to be injected into a file. Inspired by [grunt-inject](https://github.com/ChrisWren/grunt-inject)
 
@@ -97,6 +97,9 @@ If this property is set to `true` then the `scriptsrc` is ignored and all tags f
 This property was added as in some environments no Javascript files need to be injected and all inject placeholders removed from the file(s).
 
 ## Release History
+
+    * 2016-07-14   v0.1.9  
+<p>Update Grunt peer dependencies and Grunt versions</p>
 
     * 2015-01-16   v0.1.8   Beta Version
 <p>Update  Readme text.</p>
